@@ -135,11 +135,10 @@
 }
 
 /* index-item 5 */
-
 .index-item5 {
     background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(20, 33, 61, 1) 20%, rgba(0, 212, 255, 1) 100%);
     position: absolute;
-    top: 0 ; 
+    top: 0;
     height: 100%;
     width: 100%;
     display: flex;
@@ -147,8 +146,8 @@
 }
 
 .btn {
-	position: absolute;
-    top : 50%;
+    position: absolute;
+    top: 50%;
     font-family: 'Roboto', sans-serif;
     font-size: 100px;
     background-color: #FCA311;
@@ -172,13 +171,12 @@ a:hover {
 }
 
 /* text CSS */
-
 .txt-items {
     height: 400px;
     width: 300px;
     position: absolute;
-    top : 50%;
-    left : 80%;
+    top: 50%;
+    left: 80%;
     border: 3px solid #FCA311;
     padding: 20px;
 }
@@ -199,8 +197,8 @@ a:hover {
 
 @media (min-width:500px) {
     .txt {
-    font-size: 22px;
-    margin-top: 10px;
+        font-size: 22px;
+        margin-top: 10px;
     }
 
     .p {
@@ -211,20 +209,20 @@ a:hover {
         width: 500px;
         height: 500px;
         position: absolute;
-        top : 30%;
-        left: -80px; 
+        top: 30%;
+        left: -80px;
         z-index: 1;
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
         font-size: 40px;
     }
 
     .txt-items {
         position: absolute;
-        top: 80%; 
-        left : 10%; 
+        top: 80%;
+        left: 10%;
         width: 500px;
         height: 150px;
     }
@@ -234,7 +232,7 @@ a:hover {
 /* media min-width 768px*/
 @media (min-width:768px) {
     .txt {
-    font-size: 25px;
+        font-size: 25px;
     }
 
     .p {
@@ -245,20 +243,20 @@ a:hover {
         width: 600px;
         height: 600px;
         position: absolute;
-        top : 20%;
-        left: -5%; 
+        top: 20%;
+        left: -5%;
         z-index: 1;
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
         font-size: 70px;
     }
 
     .txt-items {
         position: absolute;
-        top: 70%; 
-        left : 10%; 
+        top: 70%;
+        left: 10%;
         width: 600px;
         height: 250px;
     }
@@ -268,8 +266,8 @@ a:hover {
 /* media min-width 768px*/
 @media (min-width:1024px) {
     .txt {
-    font-size: 20px;
-    margin-top: 40px;
+        font-size: 20px;
+        margin-top: 40px;
     }
 
     .p {
@@ -280,30 +278,30 @@ a:hover {
         width: 700px;
         height: 700px;
         position: absolute;
-        top : 10%;
-        left: -10%; 
+        top: 10%;
+        left: -10%;
         z-index: 1;
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
         font-size: 70px;
     }
 
     .txt-items {
         position: absolute;
-        top: 70%; 
-        left : 10%; 
+        top: 70%;
+        left: 10%;
         width: 600px;
         height: 200px;
     }
 
 }
 
-/* media 1280px*/ 
+/* media 1280px*/
 @media (min-width:1280px) {
     .txt {
-    font-size: 30px;
+        font-size: 30px;
     }
 
     .p {
@@ -317,27 +315,27 @@ a:hover {
         z-index: 1;
         position: 0;
         top: 10%;
-        
+
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
     }
 
     .txt-items {
         position: absolute;
-        top: 70%; 
-        left : 10%; 
+        top: 70%;
+        left: 10%;
         width: 900px;
         height: 200px;
     }
 
 }
 
-/* media 1380px*/ 
+/* media 1380px*/
 @media (min-width:1250px) {
     .txt {
-    font-size: 30px;
+        font-size: 30px;
     }
 
     .p {
@@ -352,16 +350,16 @@ a:hover {
         z-index: 1;
         position: 0;
         top: 10%;
-        
+
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
     }
 
     .txt-items {
         position: absolute;
-        top: 75%;  
+        top: 75%;
         width: 900px;
         height: 180px;
         margin-top: 10px;
@@ -370,10 +368,10 @@ a:hover {
 }
 
 
-/* media 1480px*/ 
+/* media 1480px*/
 @media (min-width:1480px) {
     .txt {
-    font-size: 35px;
+        font-size: 35px;
     }
 
     .p {
@@ -387,17 +385,17 @@ a:hover {
         z-index: 1;
         position: 0;
         top: 10%;
-        
+
     }
 
     .btn {
-        z-index: 2; 
+        z-index: 2;
     }
 
     .txt-items {
         position: absolute;
-        top: 30%; 
-        left : 65%; 
+        top: 30%;
+        left: 65%;
         width: 400px;
         height: 500px;
     }
