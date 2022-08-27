@@ -6,7 +6,6 @@ body {
 }
 
 /*navbar */
-
 .top-nav {
     width: 100%;
     position: absolute;
@@ -49,7 +48,6 @@ a {
 }
 
 /*images */
-
 section {
     display: flex;
     flex-direction: column;
